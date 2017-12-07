@@ -16,7 +16,7 @@ Me-sida för Emelie Jakobsson
 
 Jag heter Emelie Jakobssson, är 30 år och bor i Örebro men är född och uppvuxen i Lindesberg. Jag har främst arbetat inom handeln och har även en Butikschefsutbildning. Anledningen till att jag läste den utbildningen är att jag alltid velat bli egen företagare men på senare år har jag kännt att en fysisk butik känns mindre intressant och 2015 startade jag en webbshop.
 
-<img src="img/me.jpg" class="img-index" alt="Jag och katten">
+<img src="img/me.JPG" class="img-index" alt="Jag och katten">
 
 
 Jag har inte varit den som har suttit och programmerat sen tidig ålder men har funderat på att lära mig webbdesign från och till sedan jag gick gymnasiet. När jag letade utbildningar såg jag denna i Webbprogrammering och tyckte den verkade kul. Det var drygt ett år sen och sedan dess har jag läst kurser i Webbteknik och publicering på webben och det har känts väldigt rätt.
